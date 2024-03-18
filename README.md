@@ -2,9 +2,9 @@
 " M-Pesa integration using Python!
 
 #Requrirements
-  requests
-  json
-  HTTPBasicAuth
+  requests,
+  json,
+  HTTPBasicAuth,
   Mpesa Daraja API credentials - https://developer.safaricom.co.ke/
 
 #Details
